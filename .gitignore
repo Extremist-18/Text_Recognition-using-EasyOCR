@@ -1,0 +1,11 @@
+Licence_Plate_Dection_YOLO_V8.ipynb
+predictWithOCR1.py
+predictWithOCR2.py
+
+new_data/train
+new_data/valid
+new_data/test
+README.dataset.txt
+README.roboflow.txt
+
+best_2.pt
